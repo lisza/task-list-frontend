@@ -1,3 +1,7 @@
+## Published at
+
+http://liszalisza.com/task-list-frontend/ 
+
 ## Assignment
 
 Create a React application that keeps track of Tasks.
